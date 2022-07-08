@@ -1,0 +1,19 @@
+{
+  "name": "api-chords",
+  "version": "1.0.0",
+  "description": "The backend for the chords web app",
+  "main": "api-chords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nick-dolf/api-chords.git"
+  },
+  "author": "Nikc Dolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nick-dolf/api-chords/issues"
+  },
+  "homepage": "https://github.com/nick-dolf/api-chords#readme"
+}
