@@ -4,6 +4,7 @@
   "description": "The backend for the chords web app",
   "main": "api-chords.js",
   "scripts": {
+    "dev": "nodemon api-chords.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nick-dolf/api-chords/issues"
   },
-  "homepage": "https://github.com/nick-dolf/api-chords#readme"
+  "homepage": "https://github.com/nick-dolf/api-chords#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
